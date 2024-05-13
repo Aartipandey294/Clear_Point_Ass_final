@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nim\\Desktop\\assessment-clearpoint\\TodoList.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{065CE954-2618-4A24-A613-9C336C2154C6}|TodoList.Api\\TodoList.Api.csproj|c:\\users\\nim\\desktop\\assessment-clearpoint\\todolist.api\\todolist.api\\todolist.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{065CE954-2618-4A24-A613-9C336C2154C6}|TodoList.Api\\TodoList.Api.csproj|solutionrelative:todolist.api\\todolist.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065CE954-2618-4A24-A613-9C336C2154C6}|TodoList.Api\\TodoList.Api.csproj|c:\\users\\nim\\desktop\\assessment-clearpoint\\todolist.api\\todolist.api\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065CE954-2618-4A24-A613-9C336C2154C6}|TodoList.Api\\TodoList.Api.csproj|solutionrelative:todolist.api\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065CE954-2618-4A24-A613-9C336C2154C6}|TodoList.Api\\TodoList.Api.csproj|c:\\users\\nim\\desktop\\assessment-clearpoint\\todolist.api\\todolist.api\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065CE954-2618-4A24-A613-9C336C2154C6}|TodoList.Api\\TodoList.Api.csproj|solutionrelative:todolist.api\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065CE954-2618-4A24-A613-9C336C2154C6}|TodoList.Api\\TodoList.Api.csproj|c:\\users\\nim\\desktop\\assessment-clearpoint\\todolist.api\\todolist.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065CE954-2618-4A24-A613-9C336C2154C6}|TodoList.Api\\TodoList.Api.csproj|solutionrelative:todolist.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065CE954-2618-4A24-A613-9C336C2154C6}|TodoList.Api\\TodoList.Api.csproj|c:\\users\\nim\\desktop\\assessment-clearpoint\\todolist.api\\todolist.api\\migrations\\20240513033153_demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065CE954-2618-4A24-A613-9C336C2154C6}|TodoList.Api\\TodoList.Api.csproj|solutionrelative:todolist.api\\migrations\\20240513033153_demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065CE954-2618-4A24-A613-9C336C2154C6}|TodoList.Api\\TodoList.Api.csproj|c:\\users\\nim\\desktop\\assessment-clearpoint\\todolist.api\\todolist.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{065CE954-2618-4A24-A613-9C336C2154C6}|TodoList.Api\\TodoList.Api.csproj|solutionrelative:todolist.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065CE954-2618-4A24-A613-9C336C2154C6}|TodoList.Api\\TodoList.Api.csproj|c:\\users\\nim\\desktop\\assessment-clearpoint\\todolist.api\\todolist.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065CE954-2618-4A24-A613-9C336C2154C6}|TodoList.Api\\TodoList.Api.csproj|solutionrelative:todolist.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065CE954-2618-4A24-A613-9C336C2154C6}|TodoList.Api\\TodoList.Api.csproj|c:\\users\\nim\\desktop\\assessment-clearpoint\\todolist.api\\todolist.api\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065CE954-2618-4A24-A613-9C336C2154C6}|TodoList.Api\\TodoList.Api.csproj|solutionrelative:todolist.api\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065CE954-2618-4A24-A613-9C336C2154C6}|TodoList.Api\\TodoList.Api.csproj|c:\\users\\nim\\desktop\\assessment-clearpoint\\todolist.api\\todolist.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{065CE954-2618-4A24-A613-9C336C2154C6}|TodoList.Api\\TodoList.Api.csproj|solutionrelative:todolist.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065CE954-2618-4A24-A613-9C336C2154C6}|TodoList.Api\\TodoList.Api.csproj|c:\\users\\nim\\desktop\\assessment-clearpoint\\todolist.api\\todolist.api\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065CE954-2618-4A24-A613-9C336C2154C6}|TodoList.Api\\TodoList.Api.csproj|solutionrelative:todolist.api\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065CE954-2618-4A24-A613-9C336C2154C6}|TodoList.Api\\TodoList.Api.csproj|c:\\users\\nim\\desktop\\assessment-clearpoint\\todolist.api\\todolist.api\\migrations\\todocontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065CE954-2618-4A24-A613-9C336C2154C6}|TodoList.Api\\TodoList.Api.csproj|solutionrelative:todolist.api\\migrations\\todocontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065CE954-2618-4A24-A613-9C336C2154C6}|TodoList.Api\\TodoList.Api.csproj|c:\\users\\nim\\desktop\\assessment-clearpoint\\todolist.api\\todolist.api\\services\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065CE954-2618-4A24-A613-9C336C2154C6}|TodoList.Api\\TodoList.Api.csproj|solutionrelative:todolist.api\\services\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065CE954-2618-4A24-A613-9C336C2154C6}|TodoList.Api\\TodoList.Api.csproj|c:\\users\\nim\\desktop\\assessment-clearpoint\\todolist.api\\todolist.api\\todolist.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{065CE954-2618-4A24-A613-9C336C2154C6}|TodoList.Api\\TodoList.Api.csproj|solutionrelative:todolist.api\\todolist.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065CE954-2618-4A24-A613-9C336C2154C6}|TodoList.Api\\TodoList.Api.csproj|c:\\users\\nim\\desktop\\assessment-clearpoint\\todolist.api\\todolist.api\\services\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065CE954-2618-4A24-A613-9C336C2154C6}|TodoList.Api\\TodoList.Api.csproj|solutionrelative:todolist.api\\services\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\Nim\\Desktop\\assessment-clearpoint\\TodoList.Api\\TodoList.Api\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "TodoList.Api\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\Nim\\Desktop\\assessment-clearpoint\\TodoList.Api\\TodoList.Api\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "TodoList.Api\\Controllers\\TodoController.cs",
+              "ViewState": "AQIAABkAAAAAAABAz5shwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T04:45:43.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TodoContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nim\\Desktop\\assessment-clearpoint\\TodoList.Api\\TodoList.Api\\Models\\TodoContext.cs",
+              "RelativeDocumentMoniker": "TodoList.Api\\Models\\TodoContext.cs",
+              "ToolTip": "C:\\Users\\Nim\\Desktop\\assessment-clearpoint\\TodoList.Api\\TodoList.Api\\Models\\TodoContext.cs",
+              "RelativeToolTip": "TodoList.Api\\Models\\TodoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T05:34:08.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "todo.cs",
+              "DocumentMoniker": "C:\\Users\\Nim\\Desktop\\assessment-clearpoint\\TodoList.Api\\TodoList.Api\\Models\\todo.cs",
+              "RelativeDocumentMoniker": "TodoList.Api\\Models\\todo.cs",
+              "ToolTip": "C:\\Users\\Nim\\Desktop\\assessment-clearpoint\\TodoList.Api\\TodoList.Api\\Models\\todo.cs",
+              "RelativeToolTip": "TodoList.Api\\Models\\todo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T06:13:51.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nim\\Desktop\\assessment-clearpoint\\TodoList.Api\\TodoList.Api\\Program.cs",
+              "RelativeDocumentMoniker": "TodoList.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Nim\\Desktop\\assessment-clearpoint\\TodoList.Api\\TodoList.Api\\Program.cs",
+              "RelativeToolTip": "TodoList.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T04:46:57.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Nim\\Desktop\\assessment-clearpoint\\TodoList.Api\\TodoList.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TodoList.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Nim\\Desktop\\assessment-clearpoint\\TodoList.Api\\TodoList.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TodoList.Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T05:17:25.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TodoContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Nim\\Desktop\\assessment-clearpoint\\TodoList.Api\\TodoList.Api\\Migrations\\TodoContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "TodoList.Api\\Migrations\\TodoContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Nim\\Desktop\\assessment-clearpoint\\TodoList.Api\\TodoList.Api\\Migrations\\TodoContextModelSnapshot.cs",
+              "RelativeToolTip": "TodoList.Api\\Migrations\\TodoContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T02:34:15.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\Nim\\Desktop\\assessment-clearpoint\\TodoList.Api\\TodoList.Api\\TodoItem.cs",
+              "RelativeDocumentMoniker": "TodoList.Api\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\Nim\\Desktop\\assessment-clearpoint\\TodoList.Api\\TodoList.Api\\TodoItem.cs",
+              "RelativeToolTip": "TodoList.Api\\TodoItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T05:19:19.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Nim\\Desktop\\assessment-clearpoint\\TodoList.Api\\TodoList.Api\\Startup.cs",
+              "RelativeDocumentMoniker": "TodoList.Api\\Startup.cs",
+              "ToolTip": "C:\\Users\\Nim\\Desktop\\assessment-clearpoint\\TodoList.Api\\TodoList.Api\\Startup.cs",
+              "RelativeToolTip": "TodoList.Api\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T04:38:57.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nim\\Desktop\\assessment-clearpoint\\TodoList.Api\\TodoList.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "TodoList.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nim\\Desktop\\assessment-clearpoint\\TodoList.Api\\TodoList.Api\\appsettings.json",
+              "RelativeToolTip": "TodoList.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T05:40:34.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoList.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Nim\\Desktop\\assessment-clearpoint\\TodoList.Api\\TodoList.Api\\TodoList.Api.csproj",
+              "RelativeDocumentMoniker": "TodoList.Api\\TodoList.Api.csproj",
+              "ToolTip": "C:\\Users\\Nim\\Desktop\\assessment-clearpoint\\TodoList.Api\\TodoList.Api\\TodoList.Api.csproj",
+              "RelativeToolTip": "TodoList.Api\\TodoList.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-12T05:28:36.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240513033153_Demo.cs",
+              "DocumentMoniker": "C:\\Users\\Nim\\Desktop\\assessment-clearpoint\\TodoList.Api\\TodoList.Api\\Migrations\\20240513033153_Demo.cs",
+              "RelativeDocumentMoniker": "TodoList.Api\\Migrations\\20240513033153_Demo.cs",
+              "ToolTip": "C:\\Users\\Nim\\Desktop\\assessment-clearpoint\\TodoList.Api\\TodoList.Api\\Migrations\\20240513033153_Demo.cs",
+              "RelativeToolTip": "TodoList.Api\\Migrations\\20240513033153_Demo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:31:53.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TodoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nim\\Desktop\\assessment-clearpoint\\TodoList.Api\\TodoList.Api\\Services\\TodoRepository.cs",
+              "RelativeDocumentMoniker": "TodoList.Api\\Services\\TodoRepository.cs",
+              "ToolTip": "C:\\Users\\Nim\\Desktop\\assessment-clearpoint\\TodoList.Api\\TodoList.Api\\Services\\TodoRepository.cs",
+              "RelativeToolTip": "TodoList.Api\\Services\\TodoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T04:55:10.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITodoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nim\\Desktop\\assessment-clearpoint\\TodoList.Api\\TodoList.Api\\Services\\ITodoRepository.cs",
+              "RelativeDocumentMoniker": "TodoList.Api\\Services\\ITodoRepository.cs",
+              "ToolTip": "C:\\Users\\Nim\\Desktop\\assessment-clearpoint\\TodoList.Api\\TodoList.Api\\Services\\ITodoRepository.cs",
+              "RelativeToolTip": "TodoList.Api\\Services\\ITodoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T05:24:00.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TodoList.Api",
+              "DocumentMoniker": "C:\\Users\\Nim\\Desktop\\assessment-clearpoint\\TodoList.Api\\TodoList.Api\\TodoList.Api.csproj",
+              "RelativeDocumentMoniker": "TodoList.Api\\TodoList.Api.csproj",
+              "ToolTip": "C:\\Users\\Nim\\Desktop\\assessment-clearpoint\\TodoList.Api\\TodoList.Api\\TodoList.Api.csproj",
+              "RelativeToolTip": "TodoList.Api\\TodoList.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-13T02:16:32.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
